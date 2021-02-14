@@ -3,9 +3,6 @@ title: <Climate Change Claim Evaluation>
 layout: default
 nav_order: 1
 ---
-Referenced Article: 
-  
-Lomborg, B., 2020. The alarm about climate change is blinding us to sensible solutions. [online] Available at: <https://www.theglobeandmail.com/opinion/article-the-alarm-about-climate-change-is-blinding-us-to-sensible-solutions/> [Accessed 13 Feb. 2021].
 The article that I selected as my #1 claim is the article by The Globe and Mail, listed above with the following URL: https://www.theglobeandmail.com/opinion/article-the-alarm-about-climate-change-is-blinding-us-to-sensible-solutions/. This article is an excerpt from Bjorn Lomborg’s book False Alarm: How Climate Change Panic Costs us Trillions, Hurts the Poor and Fails to Fix the Planet (Lomborg, B., 2020). 
 
 The primary argument being made by this article is that climate claims are exaggerated, but not negating that they are in fact accurate. Lomborg emphasis the fact that current focus on the climate crisis is resulting in attention being deflected away from other global issues. The article uses the current Covid-19 pandemic as an example. Tuberculosis is still the leading cause of death in the world; however, the majority of relief efforts are being directed towards aiding Covid-19 patients. Similarly, the author attempts to emphasize the point that climate change is not the biggest issue that we are experiencing as a global entity, however it is the one that the most emphasis is placed on.
